@@ -23,8 +23,8 @@ Sou super tranquilo e sempre estou ouvindo música para realizar minhas tarefas!
 <h2>Línguas🌍</h2>
 
 <ul>
-<li>Português (nativo)</li>
-<li>Inglês (<a href="https://cert.efset.org/nsdK6v">C2 Proeficient</a>)</li>
+<li>Português (nativo);</li>
+<li>Inglês (<a href="https://cert.efset.org/nsdK6v">C2 Proeficient</a>).</li>
 </ul>
 
 <h2>Contato📞</h2>
