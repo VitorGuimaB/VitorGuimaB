@@ -7,7 +7,7 @@ Sou super tranquilo e sempre estou ouvindo música para realizar minhas tarefas!
 
 <h2>Área de tecnologia💻</h2>
 
-<p>Estou apenas começando a minha jornada buscando aprimoramento e procurando tirar o máximo proveito de todas as minhas atividades para somar no meu conhecimento.<br> Atualmente sou estagiário de WebMaster pela empresa 
+<p>Estou apenas começando a minha jornada buscando, aprimoramento e procurando tirar o máximo proveito de todas as minhas atividades para somar no meu conhecimento.<br> Atualmente sou estagiário de WebMaster pela empresa 
 <strong>The Brooklyn Brothers</strong> na qual utilizo tecnologias como o <strong>Adobe Experience Manager</strong> no meu cotidiano.</p> 
 
 <h2>Metas na área📚</h2>
